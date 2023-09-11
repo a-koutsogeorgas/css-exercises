@@ -1,0 +1,16 @@
+.odds {
+    background-color: rgb(250, 161, 161);
+    font-family: 'Verdana', 'DejaVu Sans', sans-serif;
+}
+#a {
+    color: hsl(245, 88%, 49%);
+    font-size: 36px;
+}
+#b, #c {
+   font-size: 24px; 
+}
+#c {
+    background-color: hsl(130, 43%, 61%);
+    font-weight: bold;
+}
+
